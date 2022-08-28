@@ -10,3 +10,11 @@ Uzupełnij metodę, która przyjmuje wartość logiczną i zwraca "Yes"ciąg zna
 
 https://replit.com/@KorbeckyMarcin/Convert-boolean-values-to-strings-Yes-or-No#index.ts
 
+Inne rozwiązania:
+![image](https://user-images.githubusercontent.com/62883259/187088031-0ceab788-00a8-4adf-be32-070f206eec56.png)
+![image](https://user-images.githubusercontent.com/62883259/187088038-3403e5a9-e93a-4bc7-a535-6478f73cc8ec.png)
+![image](https://user-images.githubusercontent.com/62883259/187088076-7660a170-082a-4d03-869a-a4605527ba43.png)
+![image](https://user-images.githubusercontent.com/62883259/187088080-f45a265d-8ca9-4e71-8be6-d58f7238ffc0.png)
+![image](https://user-images.githubusercontent.com/62883259/187088093-fa455fb3-9725-4ee4-8c32-d68948983532.png)
+
+
