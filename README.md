@@ -1,0 +1,1 @@
+# Konwertuj-warto-ci-logiczne-na-ci-gi-Tak-lub-Nie-.
